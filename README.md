@@ -36,28 +36,28 @@ Cohort Analysis, CASE WHEN, Date Functions, JOINs
 
 ## Demostrations
 1. What is the total revenue per year and per quarter? Is the business growing?
-<img width="500" height="142" alt="image" src="https://github.com/user-attachments/assets/f6cab98e-40e8-413a-bfc8-158a2d15b1b4" /><br>
+<img width="500" height="142" alt="image" src="https://github.com/user-attachments/assets/f6cab98e-40e8-413a-bfc8-158a2d15b1b4" />
 
 2. Which are the top 10 products by total revenue?
-<img width="500" height="364" alt="image" src="https://github.com/user-attachments/assets/7fe0eece-d7c2-464b-8b52-cc583e49e2d4" /><br>
+<img width="500" height="364" alt="image" src="https://github.com/user-attachments/assets/7fe0eece-d7c2-464b-8b52-cc583e49e2d4" />
 
 3. Which product categories generate the most revenue?
-<img width="500" height="79" alt="image" src="https://github.com/user-attachments/assets/30ae7727-faff-4f57-81ad-3b1efb949499" /><br>
+<img width="500" height="79" alt="image" src="https://github.com/user-attachments/assets/30ae7727-faff-4f57-81ad-3b1efb949499" />
 
 4. Who are the top 10 customers by lifetime value?
-<img width="500" height="361" alt="image" src="https://github.com/user-attachments/assets/2cad7163-2e0c-4c69-be35-a940e6507bf1" /><br>
+<img width="500" height="361" alt="image" src="https://github.com/user-attachments/assets/2cad7163-2e0c-4c69-be35-a940e6507bf1" />
 
 5. Which country generates the most revenue?
-<img width="500" height="76" alt="image" src="https://github.com/user-attachments/assets/e61654ef-9c97-4b13-bc3e-7434efe9cd04" /><br>
+<img width="500" height="76" alt="image" src="https://github.com/user-attachments/assets/e61654ef-9c97-4b13-bc3e-7434efe9cd04" />
 
 6. What percentages of revenue comes from the top 20% of customers? (Pareto Analysis)
-<img width="500" height="81" alt="image" src="https://github.com/user-attachments/assets/14c3755d-04d5-4ea5-8ca0-14c0b80d70f4" /><br>
+<img width="500" height="81" alt="image" src="https://github.com/user-attachments/assets/14c3755d-04d5-4ea5-8ca0-14c0b80d70f4" />
 
 7. Which employees have processed the most orders?
-<img width="500" height="79" alt="image" src="https://github.com/user-attachments/assets/7e83b415-f5c7-4735-a511-b2cd7a535c16" /><br>
+<img width="500" height="79" alt="image" src="https://github.com/user-attachments/assets/7e83b415-f5c7-4735-a511-b2cd7a535c16" />
 
 8. Which shipper has the best/worst average delivery time?
-<img width="500" height="142" alt="image" src="https://github.com/user-attachments/assets/62191197-c447-424d-9418-5bf4e3e6ba12" /><br>
+<img width="500" height="142" alt="image" src="https://github.com/user-attachments/assets/62191197-c447-424d-9418-5bf4e3e6ba12" />
 
 9. Are there any orders that were delivered late?
 <img width="855" height="582" alt="image" src="https://github.com/user-attachments/assets/c3b2b8d5-0ce4-4963-ad57-4477eb33b3f0" />
