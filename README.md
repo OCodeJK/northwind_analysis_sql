@@ -14,9 +14,9 @@ Trying my hands on SQL by myself (aiming to become a data analyst)
 - Are there any orders that were delivered late?
 
 Abit more advanced SQL:
--- Write a month-over-month revenue growth query using windows function
--- Cohort analysis - group customers by their first order month and track how many reorder in subsequent months
--- Calculate customer churn
+- Write a month-over-month revenue growth query using windows function
+- Cohort analysis - group customers by their first order month and track how many reorder in subsequent months
+- Calculate customer churn
 
 ## Tools Used
 PostgreSQL, DBeaver
