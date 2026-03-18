@@ -2,7 +2,7 @@
 
 ## Overview
 Trying my hands on SQL by myself (aiming to become a data analyst)
-- Here are some business related enquires that I felt would be asked:
+-- Here are some business related enquires that I felt would be asked:
 - What is the total revenue per year and per quarter? Is the business growing?
 Which are the top 10 products by total revenue?
 Which product categories generate the most revenue?
