@@ -1,8 +1,7 @@
 # Northwind Sales Analytics
 
 ## Overview
-Trying my hands on SQL by myself (aiming to become a data analyst)
-- Here are some business related enquires that I felt would be asked:
+Trying my hands on SQL by myself (aiming to become a data analyst) so I ask myself which business related enquires would be asked:
 - What is the total revenue per year and per quarter? Is the business growing?
 - Which are the top 10 products by total revenue?
 - Which product categories generate the most revenue?
@@ -34,3 +33,15 @@ Cohort Analysis, CASE WHEN, Date Functions, JOINs
 1. Clone this repo
 2. Load northwind.sql into PostgreSQL
 3. Run queries in the /queries folder in order
+
+## Demostrations
+1. What is the total revenue per year and per quarter? Is the business growing?
+
+3. Which are the top 10 products by total revenue?
+4. Which product categories generate the most revenue?
+5. Who are the top 10 customers by lifetime value?
+6. Which country generates the most revenue?
+7. What percentages of revenue comes from the top 20% of customers? (Pareto Analysis)
+8. Which employees have processed the most orders?
+9. Which shipper has the best/worst average delivery time?
+10. Are there any orders that were delivered late?
