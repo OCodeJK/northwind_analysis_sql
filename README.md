@@ -36,8 +36,9 @@ Cohort Analysis, CASE WHEN, Date Functions, JOINs
 
 ## Demostrations
 1. What is the total revenue per year and per quarter? Is the business growing?
-<img width="500" height="142" alt="image" src="https://github.com/user-attachments/assets/f6cab98e-40e8-413a-bfc8-158a2d15b1b4" />&nbsp
-
+<img width="500" height="142" alt="image" src="https://github.com/user-attachments/assets/f6cab98e-40e8-413a-bfc8-158a2d15b1b4" />
+&nbsp;
+&nbsp;
 2. Which are the top 10 products by total revenue?
 <img width="500" height="364" alt="image" src="https://github.com/user-attachments/assets/7fe0eece-d7c2-464b-8b52-cc583e49e2d4" />
 
