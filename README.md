@@ -36,8 +36,8 @@ Cohort Analysis, CASE WHEN, Date Functions, JOINs
 
 ## Demostrations
 1. What is the total revenue per year and per quarter? Is the business growing?
-<img width="500" height="142" alt="image" src="https://github.com/user-attachments/assets/f6cab98e-40e8-413a-bfc8-158a2d15b1b4" />
-&nbsp
+<img width="500" height="142" alt="image" src="https://github.com/user-attachments/assets/f6cab98e-40e8-413a-bfc8-158a2d15b1b4" />&nbsp
+
 2. Which are the top 10 products by total revenue?
 <img width="500" height="364" alt="image" src="https://github.com/user-attachments/assets/7fe0eece-d7c2-464b-8b52-cc583e49e2d4" />
 
@@ -60,4 +60,4 @@ Cohort Analysis, CASE WHEN, Date Functions, JOINs
 <img width="500" height="142" alt="image" src="https://github.com/user-attachments/assets/62191197-c447-424d-9418-5bf4e3e6ba12" />
 
 9. Are there any orders that were delivered late?
-<img width="855" height="582" alt="image" src="https://github.com/user-attachments/assets/c3b2b8d5-0ce4-4963-ad57-4477eb33b3f0" />
+<img width="800" height="582" alt="image" src="https://github.com/user-attachments/assets/c3b2b8d5-0ce4-4963-ad57-4477eb33b3f0" />
