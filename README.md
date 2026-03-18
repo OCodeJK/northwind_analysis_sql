@@ -36,12 +36,15 @@ Cohort Analysis, CASE WHEN, Date Functions, JOINs
 
 ## Demostrations
 1. What is the total revenue per year and per quarter? Is the business growing?
+<img width="468" height="142" alt="image" src="https://github.com/user-attachments/assets/f6cab98e-40e8-413a-bfc8-158a2d15b1b4" />
 
-3. Which are the top 10 products by total revenue?
-4. Which product categories generate the most revenue?
-5. Who are the top 10 customers by lifetime value?
-6. Which country generates the most revenue?
-7. What percentages of revenue comes from the top 20% of customers? (Pareto Analysis)
-8. Which employees have processed the most orders?
-9. Which shipper has the best/worst average delivery time?
-10. Are there any orders that were delivered late?
+2. Which are the top 10 products by total revenue?
+<img width="495" height="364" alt="image" src="https://github.com/user-attachments/assets/7fe0eece-d7c2-464b-8b52-cc583e49e2d4" />
+
+3. Which product categories generate the most revenue?
+4. Who are the top 10 customers by lifetime value?
+5. Which country generates the most revenue?
+6. What percentages of revenue comes from the top 20% of customers? (Pareto Analysis)
+7. Which employees have processed the most orders?
+8. Which shipper has the best/worst average delivery time?
+9. Are there any orders that were delivered late?
