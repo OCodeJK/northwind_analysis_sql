@@ -35,8 +35,7 @@ Cohort Analysis, CASE WHEN, Date Functions, JOINs
 3. Run queries in the /queries folder in order
 
 ## Demostrations
-1. What is the total revenue per year and per quarter? Is the business growing?
-<img width="500" height="142" alt="image" src="https://github.com/user-attachments/assets/f6cab98e-40e8-413a-bfc8-158a2d15b1b4" />
+1. What is the total revenue per year and per quarter? Is the business growing? <img width="500" height="142" alt="image" src="https://github.com/user-attachments/assets/f6cab98e-40e8-413a-bfc8-158a2d15b1b4" />
 &nbsp;
 &nbsp;
 2. Which are the top 10 products by total revenue?
