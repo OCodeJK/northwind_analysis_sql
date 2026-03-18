@@ -73,5 +73,7 @@ Cohort Analysis, CASE WHEN, Date Functions, JOINs
 8. Which shipper has the best/worst average delivery time?
 <img width="500" height="142" alt="image" src="https://github.com/user-attachments/assets/62191197-c447-424d-9418-5bf4e3e6ba12" />
 
+<br><br>
+
 9. Are there any orders that were delivered late?
 <img width="800" height="582" alt="image" src="https://github.com/user-attachments/assets/c3b2b8d5-0ce4-4963-ad57-4477eb33b3f0" />
